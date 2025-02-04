@@ -12,3 +12,7 @@
 ```java
 System.out.println()
 ```
+
+## Esto es una lista numerada
+1. Uno
+2. Dos
